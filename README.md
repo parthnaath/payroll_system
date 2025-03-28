@@ -6,3 +6,4 @@
 <img src="https://github.com/parthnaath/payroll_system/blob/c858cb39cae1913d15033aaac672981a4f49e338/login.jpg?raw=true" width="1000" alt="Payroll System Preview"> 
 <img src="https://github.com/parthnaath/payroll_system/blob/ea705b277a15e81790b8652b9f505550cace037a/employee_dashboard.jpg?raw=true" width="1000" alt="Payroll System Preview"> 
 <img src="https://github.com/parthnaath/payroll_system/blob/c67a4873ce3461d0a6eda7f285e9ede8592ed83d/salary.jpg?raw=true" width="1000" alt="Payroll System Preview"> 
+<img src="https://github.com/parthnaath/payroll_system/blob/c67a4873ce3461d0a6eda7f285e9ede8592ed83d/salary.jpg?raw=true" width="1000" alt="Payroll System Preview"> 
