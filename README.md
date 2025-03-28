@@ -9,7 +9,7 @@
 <img src="https://github.com/parthnaath/payroll_system/blob/bef3b52fcbe80947897a9eded98b29747babf4a7/security.jpg?raw=true" width="1000" alt="Payroll System Preview"> 
 
 # Admin Login
-Username: Partha
+Username: Partha<br>
 Password: partha 
 
 # Prerequisites
